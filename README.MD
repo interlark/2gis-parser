@@ -1,3 +1,6 @@
+| :exclamation:  Репозиторий архивный, новая версия парсера доступна тут [interlark/parser-2gis](https://github.com/interlark/parser-2gis)   |
+|-----------------------------------------|
+
 # INCWELL 2GIS PARSER
 
 Рабочий на апрель 2018 парсер 2 ГИС, построенный на Chrome Driver.
